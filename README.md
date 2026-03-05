@@ -23,12 +23,13 @@ Repo ini berfungsi sebagai *archive* pribadi untuk script automasi, tools sistem
 
 ### 📂 PROJECT INDEX (MODULES)
 
-Daftar modul yang aktif saat ini. Tabel ini akan diperbarui secara berkala.
+Daftar modul yang aktif saat ini. Tabel ini akan diperbarui secara berkala seiring dengan penambahan skrip baru.
 
 | ID | Module Name | Description | Status |
 | :--- | :--- | :--- | :---: |
 | **01** | **[ZB_Clean_Classic](./ZB_Clean_Classic)** | Program pembersih sederhana (Classic) untuk manajemen file dasar. | `🟢 Active` |
-| **02** | *Coming Soon* | *Next Python Module...* | `⚪ Pending` |
+| **02** | **[AI_System_Monitor](./ai-system-monitor)** | TUI system monitor interaktif dengan AI Guardrail (Gemini), Process Killer, dan manajemen Docker. | `🟢 Active` |
+| **03** | *Coming Soon* | *Next Python Module...* | `⚪ Pending` |
 
 ---
 
@@ -37,5 +38,11 @@ Daftar modul yang aktif saat ini. Tabel ini akan diperbarui secara berkala.
 Karena ini *Python environment*, pastikan sistem memiliki:
 
 ```bash
-Python 3.x Installed
+# Persyaratan Dasar Sistem
+Python 3.8+ Installed
 Pip (Python Package Installer)
+
+# (Opsional) Direkomendasikan menggunakan Virtual Environment
+python -m venv venv
+source venv/bin/activate  # Untuk Linux/Mac
+venv\Scripts\activate     # Untuk Windows
