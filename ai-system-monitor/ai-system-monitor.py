@@ -79,7 +79,7 @@ from textual import work
 
 # Security Note: Provided for ZBRose Labs local testing. 
 # Recommended: Set this as an environment variable 'GEMINI_API_KEY' instead of hardcoding.
-GENAI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyC8png3-cBI0RCKD3nFKyl0ZJWCvh0162s")
+GENAI_API_KEY = os.environ.get("GEMINI_API_KEY", "APIKEY GEMINI")
 
 if GENAI_API_KEY:
     genai.configure(api_key=GENAI_API_KEY)
