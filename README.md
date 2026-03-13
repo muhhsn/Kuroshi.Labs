@@ -8,12 +8,12 @@
 
 ---
 
-### 📡 ABOUT KUROSHI LABS // 黒志研究所
+### 📡 ABOUT KUROSHI LABS
 **Kuroshi Labs** adalah manifestasi visi personal gue dalam membangun ekosistem digital berbasis **Python**. Sebagai **Vibe Coder**, gue percaya kode harus fungsional, estetik, dan berjiwa. Laboratorium ini adalah wadah tools mandiri yang bersifat **Open Source**—bebas untuk dipakai, dimodifikasi, atau dikembangkan bersama.
 
 > *"Turning complex logic into aesthetic terminal experiences."*
 
-### 🖥️ SYSTEM DASHBOARD :: 黑志 v2.1
+### 🖥️ SYSTEM DASHBOARD :
 ```text
 ┌─── KUROSHI MAIN OPS :: 黑志 ──────────────────────────────────────────────────┐
 │  OPERATOR     : @muhhsn                                                      │
